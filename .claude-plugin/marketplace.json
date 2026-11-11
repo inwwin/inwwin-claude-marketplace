@@ -1,0 +1,18 @@
+{
+  "name": "inwwin-claude-marketplace",
+  "owner": {
+    "name": "Panawat Wongklaew"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins."
+  },
+  "plugins": [
+    {
+      "name": "iceoxford",
+      "source": "./plugins/iceoxford",
+      "description": "Query and interpret the ICEOxford cryostat session archive in MotherDuck (sessions, 1 Hz readings, event markers, channel meanings and caveats).",
+      "version": "0.1.0",
+      "category": "data"
+    }
+  ]
+}
