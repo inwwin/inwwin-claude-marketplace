@@ -1,0 +1,10 @@
+{
+  "name": "iceoxford",
+  "version": "0.1.0",
+  "description": "Query and interpret the ICEOxford cryostat session archive in MotherDuck.",
+  "author": {
+    "name": "Panawat Wongklaew"
+  },
+  "repository": "https://github.com/inwwin/inwwin-claude-marketplace",
+  "keywords": ["cryostat", "motherduck", "duckdb", "lab-data"]
+}
